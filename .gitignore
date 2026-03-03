@@ -1,0 +1,11 @@
+# Node
+API/node_modules/
+# Environment
+API/.env
+
+# Logs
+*.log
+
+# Sistema
+Thumbs.db
+.DS_Store
