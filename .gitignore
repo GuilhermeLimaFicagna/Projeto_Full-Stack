@@ -1,5 +1,6 @@
 # Node
-node_modules
+node_modules/
+
 # Environment
 API/.env
 
@@ -16,6 +17,9 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 
+# Sistema
+Thumbs.db
+.DS_Store
 
 dist
 dist-ssr
